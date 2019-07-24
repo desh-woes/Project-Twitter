@@ -7,9 +7,14 @@ The structure for this repository will be based on the table of contents which w
 # Table Of Content
 s/n | Projects
 --  | -----
-1   | 
+1   | Sentiment Analysis using Textblob
 2   | 
 3   | 
 4   | 
 
-> No projects implemented yet
+### Sentiment Analysis
+ > Dependencies : Tweepy and Textblob
+ > Tweepy Installation: pip install tweepy
+ > Textblob Installation: pip install textblob
+ 
+ *Description:* This project takes in a user's string or topic and analysis user's sentiment about the given topic. It is currently still in the development stage and I am looking for more creative ways to make use of the functionality.
